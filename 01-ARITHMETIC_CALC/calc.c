@@ -12,7 +12,6 @@ int main () {
     
     printf("CHOOSE Operator (+,-,%%,/,*) : ");
     
-    // THIS LINE FLUSHES THE VS CODE TERMINAL BUFFER COMPLETELY:
     while (getchar() != '\n' && getchar() != EOF); 
     
     scanf("%c", &op);
