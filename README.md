@@ -11,6 +11,7 @@ Tracking my learning of C through github
   * `avgnum.c`: Average of 3 numbers
   * `digit.c`: Checks if given number is digit(0-9) or not.
   * `smalln.c`: Smallest of 2 numbers.
+  * `armstrong.c`: Checks whether a three-digit number is an Armstrong number or not
 
 ##  Environment
 
