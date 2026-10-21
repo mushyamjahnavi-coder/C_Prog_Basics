@@ -10,6 +10,7 @@ Tracking my learning of C through github
   * `cube.c`: Cube of a number
   * `avgnum.c`: Average of 3 numbers
   * `digit.c`: Checks if given number is digit(0-9) or not.
+  * `smalln.c`: Smallest of 2 numbers.
 
 ##  Environment
 
