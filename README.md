@@ -7,6 +7,7 @@ Tracking my learning of C through github
   * `calc.c`: Calculator using two numbers.
   * `area.c`: Area and Perimeter of Rectangle.
   * `cube.c`: Cube of a number
+  * `avgnum.c`: Average of 3 numbers
 
 ## 🛠️ Environment
 * Compiler: GCC
