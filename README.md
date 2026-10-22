@@ -14,6 +14,9 @@ Tracking my learning of C through github
   * `armstrong.c`: Checks whether a three-digit number is an Armstrong number or not
   * `naturalnum.c`: Checks if given number is Natural number or not.
 
+* **`02-LOOPS/`** - Programs using loops
+  * `oddnum.c`: Print odd numbers till n value
+
 ##  Environment
 
 * Compiler: GCC
