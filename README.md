@@ -16,6 +16,7 @@ Tracking my learning of C through github
 
 * **`02-LOOPS/`** - Programs using loops
   * `oddnum.c`: Print odd numbers till n value
+  * `multiples.exe`: Muliples of number and its count
 
 ##  Environment
 
